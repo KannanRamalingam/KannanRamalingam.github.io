@@ -1,7 +1,9 @@
 header { 
-  background: transparent;
+  position: sticky;
+  background: white; /*transparent;*/
    /*background-image: url('../images/images-bg7.gif');*/
-
+  z-index: 1000;
+  top: 0;
   margin: 0 10% 30px 10%;
   float: left;
   width: 80%;
